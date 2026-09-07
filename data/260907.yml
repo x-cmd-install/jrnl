@@ -5,7 +5,7 @@ about:
   head: 90de494
   archived: false
   latestVersion: "v4.6"
-  collectedAt: 2026-09-07T04:32:49Z
+  collectedAt: 2026-09-07T19:58:55Z
 timeline:
   created: 2012-03-29
   lastCommit: 2026-08-08
@@ -83,7 +83,7 @@ total:
   commit: 2066
 ---
 path: /home/runner/.x-repo/github.com/jrnl-org/jrnl
-collectedAt: 2026-09-07T04:32:51Z
+collectedAt: 2026-09-07T19:58:57Z
 loc:
   Python:
     code: 6558
@@ -146,24 +146,15 @@ total:
   blanks: 3482
   files: 195
 ---
-date: "2026-08-24"
+date: "2026-09-07"
 repo:
   name: github.com/jrnl-org/jrnl
   commit: 90de4948d79a4fca8c7238dd2487b599f458c903
 scorecard:
-  version: v5.5.1-0.20260815060127-d1fab88f5463
-  commit: d1fab88f54636ff366076edfc5c239f97b3c8e66
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
 score: 5.1
 checks:
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
-    details: null
-  - name: Packaging
-    score: -1
-    reason: packaging workflow not detected
-    details:
-      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Maintained
     score: 10
     reason: 30 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 10
@@ -180,10 +171,15 @@ checks:
     score: 1
     reason: Found 3/25 approved changesets -- score normalized to 1
     details: null
-  - name: CII-Best-Practices
-    score: 0
-    reason: no effort to earn an OpenSSF best practices badge detected
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
     details: null
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Binary-Artifacts
     score: 10
     reason: no binaries found in the repo
@@ -222,8 +218,12 @@ checks:
       - 'Warn: pipCommand not pinned by hash: .github/workflows/release.yaml:80'
       - 'Info:   0 out of  12 GitHub-owned GitHubAction dependencies pinned'
       - 'Info:   0 out of   2 third-party GitHubAction dependencies pinned'
-      - 'Info:   0 out of   1 npmCommand dependencies pinned'
       - 'Info:   0 out of   2 pipCommand dependencies pinned'
+      - 'Info:   0 out of   1 npmCommand dependencies pinned'
+  - name: CII-Best-Practices
+    score: 0
+    reason: no effort to earn an OpenSSF best practices badge detected
+    details: null
   - name: Fuzzing
     score: 0
     reason: project is not fuzzed
@@ -250,7 +250,7 @@ checks:
       - 'Warn: 0 commits out of 10 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:32:52+00:00
+  collectedAt: 2026-09-07T19:58:58+00:00
   platform:
     darwin/arm64:
       name:  null
