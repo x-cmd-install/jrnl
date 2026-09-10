@@ -1,0 +1,471 @@
+- repo: arch
+  subrepo: extra
+  srcname: jrnl
+  binname: jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+- repo: artix
+  subrepo: world
+  srcname: jrnl
+  binname: jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+- repo: fedora_39
+  subrepo: release
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: 4.0.1
+  origversion: 4.0.1-2.fc39
+  status: legacy
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.1"
+  origversion: 4.1-1.fc39
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.1"
+  origversion: 4.1-3.fc40
+  status: legacy
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: 4.2-1.fc40
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.1"
+  origversion: 4.1-11.fc41
+  status: legacy
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: 4.2-3.fc41
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: 4.2-4.fc42
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: 4.2-8.fc42
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: 4.2.1
+  origversion: 4.2.1-6.fc43
+  status: legacy
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1.fc43
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1.fc44
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.3"
+  origversion: 4.3-1.fc44
+  status: legacy
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1.fc45
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: gentoo_ovl_guru
+  srcname: app-text/jrnl
+  visiblename: app-text/jrnl
+  version: 4.2.1
+  origversion: null
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  maintainers:
+    - mailgentoo@kaats.ch
+  licenses:
+    - GPL-3
+  categories:
+    - app-text
+- repo: homebrew
+  srcname: jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: null
+  status: newest
+  summary: Command-line note taker
+- repo: homebrew
+  srcname: jrnl
+  visiblename: jrnl
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line note taker
+- repo: liguros_stable
+  srcname: app-text/jrnl
+  visiblename: app-text/jrnl
+  version: "4.2"
+  origversion: null
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  maintainers:
+    - mailgentoo@kaats.ch
+  licenses:
+    - GPL-3
+  categories:
+    - app-text
+- repo: liguros_stable
+  srcname: app-text/jrnl
+  visiblename: app-text/jrnl
+  version: "4.1"
+  origversion: null
+  status: legacy
+  summary: Collect your thoughts and notes without leaving the command line
+  maintainers:
+    - mailgentoo@kaats.ch
+  licenses:
+    - GPL-3
+  categories:
+    - app-text
+- repo: liguros_develop
+  srcname: app-text/jrnl
+  visiblename: app-text/jrnl
+  version: 4.2.1
+  origversion: null
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  maintainers:
+    - mailgentoo@kaats.ch
+  licenses:
+    - GPL-3
+  categories:
+    - app-text
+- repo: macports
+  srcname: office/jrnl
+  binname: jrnl
+  visiblename: jrnl
+  version: "4.1"
+  origversion: null
+  status: outdated
+  summary: jrnl is a simple journal application for your command line.
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - GPL-3
+  categories:
+    - office
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: jrnl
+  binname: jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: jrnl
+  binname: jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: jrnl
+  binname: jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_05
+  srcname: jrnl
+  visiblename: jrnl
+  version: "4.1"
+  origversion: null
+  status: outdated
+  summary: Command line journal application that stores your journal in a plain text file
+  maintainers:
+    - bryanasdev000@gmail.com
+    - ping@umazalakain.info
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: jrnl
+  visiblename: jrnl
+  version: "4.1"
+  origversion: null
+  status: outdated
+  summary: Command line journal application that stores your journal in a plain text file
+  maintainers:
+    - bryanasdev000@gmail.com
+    - ping@umazalakain.info
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: null
+  status: outdated
+  summary: Command line journal application that stores your journal in a plain text file
+  maintainers:
+    - bryanasdev000@gmail.com
+    - ping@umazalakain.info
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: null
+  status: outdated
+  summary: Command line journal application that stores your journal in a plain text file
+  maintainers:
+    - bryanasdev000@gmail.com
+    - ping@umazalakain.info
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: null
+  status: outdated
+  summary: Command line journal application that stores your journal in a plain text file
+  maintainers:
+    - ping@umazalakain.info
+  licenses:
+    - GPL-3.0-only
+- repo: nix_unstable
+  srcname: jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: null
+  status: outdated
+  summary: Command line journal application that stores your journal in a plain text file
+  maintainers:
+    - ping@umazalakain.info
+  licenses:
+    - GPL-3.0-only
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: 4.2.1
+  origversion: 4.2.1-1.4
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: jrnl
+  binname: jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+- repo: pkgsrc_2026_1
+  srcname: time/py-jrnl
+  binname: py313-jrnl
+  visiblename: time/py-jrnl
+  version: 4.2.1
+  origversion: 4.2.1nb1
+  status: outdated
+  summary: Command line journal application
+  maintainers:
+    - leot@netbsd.org
+  categories:
+    - time
+- repo: pkgsrc_2026_2
+  srcname: time/py-jrnl
+  binname: py313-jrnl
+  visiblename: time/py-jrnl
+  version: 4.2.1
+  origversion: 4.2.1nb1
+  status: outdated
+  summary: Command line journal application
+  maintainers:
+    - leot@netbsd.org
+  categories:
+    - time
+- repo: pkgsrc_current
+  srcname: time/py-jrnl
+  binname: py313-jrnl
+  visiblename: time/py-jrnl
+  version: 4.2.1
+  origversion: 4.2.1nb1
+  status: outdated
+  summary: Command line journal application
+  maintainers:
+    - leot@netbsd.org
+  categories:
+    - time
+- repo: pypi
+  srcname: jrnl
+  binname: jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: null
+  status: newest
+  summary: Collect your thoughts and notes without leaving the command line.
+  maintainers:
+    - jonathan@nowandwren.com
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: jrnl
+  binname: jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: "4.2_2"
+  status: outdated
+  summary: Simple journal application for your command line
+  maintainers:
+    - pangolin@vivaldi.net
+  licenses:
+    - GPL-3.0-only
