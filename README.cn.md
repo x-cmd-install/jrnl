@@ -4,7 +4,7 @@
 
 Collect your thoughts and notes without leaving the command line.
 
-![jrnl](https://repo.x-cmd.io/jrnl.svg)
+![jrnl](https://repo.x-cmd.io/jrnl.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install jrnl
 
 - **最新版本**: `v4.6` (2026-08-07)
 - **最近提交**: 2026-08-08
-- **发布时间**: 2026-08-07T10:26:25Z
 
 ## 流行度
 
-- **Star**: 7,310 · **Fork**: 562 · **开放 issue**: 985 · **贡献者**: 98
+- **Star**: 7,311 · **Fork**: 562 · **开放 issue**: 985 · **贡献者**: 98
 
 ## 累计统计
 
@@ -71,4 +70,4 @@ jrnl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:38:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:16:29Z._
