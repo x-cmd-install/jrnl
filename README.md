@@ -1,24 +1,74 @@
 # jrnl
 
+[中文版本](./README.cn.md)
+
 Collect your thoughts and notes without leaving the command line.
 
-- **Upstream**: <https://github.com/jrnl-org/jrnl>
-- **Homepage**: <https://jrnl.sh>
-- **Latest release**: `v4.6` (2026-08-07)
-- **Last commit**: 2026-08-08
-- **License**: GPL-3.0
-- **Stars**: 7309 · **Forks**: 562 · **Open issues**: 985 · **Contributors**: 98
+![jrnl](https://repo.x-cmd.io/jrnl.svg)
 
-## Installation
+## Install
 
 ```sh
 x install jrnl
 ```
 
-See <https://x-cmd.com/install/jrnl> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/jrnl-org/jrnl>
+- **Homepage**: <https://jrnl.sh>
+- **License**: GPL-3.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:43:25Z._
+- **Latest**: `v4.6` (2026-08-07)
+- **Last commit**: 2026-08-08
+- **Published**: 2026-08-07T10:26:25Z
+
+## Popularity
+
+- **Stars**: 7,310 · **Forks**: 562 · **Open issues**: 985 · **Contributors**: 98
+
+## Totals (cumulative)
+
+- **Releases**: 51 · **Merged PRs**: 838 · **Open PRs**: 24 · **Closed issues**: 857 · **Open issues**: 128 · **Commits**: 2066
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 2 | 20 | 16 | 2 | 0 | 71 |
+| 360d | 2025-09-15 | 2 | 31 | 20 | 15 | 3 | 96 |
+
+## Code size
+
+Total: **15,192** lines of code across **155** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 6,558 | 413 | 1,675 | 75 |
+| Json | 3,564 | 0 | 0 | 7 |
+| Gherkin | 3,239 | 130 | 488 | 21 |
+| Yaml | 732 | 0 | 1 | 48 |
+| Css | 710 | 42 | 132 | 4 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.1 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 3/25 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
+## Improve this data
+
+Install metadata for jrnl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jrnl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/jrnl.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:38:07Z._
