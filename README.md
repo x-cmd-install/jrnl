@@ -12,6 +12,28 @@ Collect your thoughts and notes without leaving the command line.
 x install jrnl
 ```
 
+## Code insight
+
+Total: **15,192** lines of code across **155** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 6,558 | 413 | 1,675 | 75 |
+| Json | 3,564 | 0 | 0 | 7 |
+| Gherkin | 3,239 | 130 | 488 | 21 |
+| Yaml | 732 | 0 | 1 | 48 |
+| Css | 710 | 42 | 132 | 4 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.1 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 3/25 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/jrnl-org/jrnl>
@@ -36,30 +58,24 @@ x install jrnl
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 2 | 19 | 15 | 2 | 0 | 61 |
 | 90d | 2026-06-12 | 2 | 20 | 16 | 2 | 0 | 71 |
+| last180d | 2026-03-14 | 2 | 22 | 17 | 6 | 1 | 71 |
 | 360d | 2025-09-15 | 2 | 31 | 20 | 15 | 3 | 96 |
+| last720d | 2024-09-20 | 4 | 95 | 22 | 39 | 14 | 202 |
 
-## Code size
+## Distribution status
 
-Total: **15,192** lines of code across **155** files in the top 5 languages.
+Reported by **38** distros on [repology.org](https://repology.org/project/jrnl). **11** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 6,558 | 413 | 1,675 | 75 |
-| Json | 3,564 | 0 | 0 | 7 |
-| Gherkin | 3,239 | 130 | 488 | 21 |
-| Yaml | 732 | 0 | 1 | 48 |
-| Css | 710 | 42 | 132 | 4 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.1 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 3/25 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `4.6` | ✅ latest |
+| Homebrew | `4.6` | ✅ latest |
+| Fedora rawhide | `4.6` | ✅ latest |
+| Nix unstable | `4.2` | ⚠️ outdated |
+| Void | `4.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `4.2.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -70,4 +86,4 @@ Install metadata for jrnl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:16:28Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:10:32Z._

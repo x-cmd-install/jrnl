@@ -12,6 +12,28 @@ Collect your thoughts and notes without leaving the command line.
 x install jrnl
 ```
 
+## 代码规模
+
+合计: **15,192** 行代码（覆盖前 5 种语言、共 **155** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 6,558 | 413 | 1,675 | 75 |
+| Json | 3,564 | 0 | 0 | 7 |
+| Gherkin | 3,239 | 130 | 488 | 21 |
+| Yaml | 732 | 0 | 1 | 48 |
+| Css | 710 | 42 | 132 | 4 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **5.1 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (1/10) — Found 3/25 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/jrnl-org/jrnl>
@@ -36,30 +58,24 @@ x install jrnl
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 2 | 19 | 15 | 2 | 0 | 61 |
 | 90d | 2026-06-12 | 2 | 20 | 16 | 2 | 0 | 71 |
+| last180d | 2026-03-14 | 2 | 22 | 17 | 6 | 1 | 71 |
 | 360d | 2025-09-15 | 2 | 31 | 20 | 15 | 3 | 96 |
+| last720d | 2024-09-20 | 4 | 95 | 22 | 39 | 14 | 202 |
 
-## 代码规模
+## 发行版状态
 
-合计: **15,192** 行代码（覆盖前 5 种语言、共 **155** 个文件）。
+在 [repology.org](https://repology.org/project/jrnl) 上共有 **38** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**20** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 6,558 | 413 | 1,675 | 75 |
-| Json | 3,564 | 0 | 0 | 7 |
-| Gherkin | 3,239 | 130 | 488 | 21 |
-| Yaml | 732 | 0 | 1 | 48 |
-| Css | 710 | 42 | 132 | 4 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **5.1 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (1/10) — Found 3/25 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `4.6` | ✅ latest |
+| Homebrew | `4.6` | ✅ latest |
+| Fedora rawhide | `4.6` | ✅ latest |
+| Nix unstable | `4.2` | ⚠️ outdated |
+| Void | `4.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `4.2.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -70,4 +86,4 @@ jrnl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:16:29Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:10:32Z._
