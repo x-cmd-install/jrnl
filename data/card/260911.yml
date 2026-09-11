@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.6"
   latestRelease: "v4.6"
   latestPrerelease: "v4.6-beta"
-  collectedAt: 2026-09-11T04:42:24Z
+  collectedAt: 2026-09-11T20:19:35Z
 timeline:
   created: 2012-03-29
   lastCommit: 2026-08-08
@@ -87,7 +87,7 @@ total:
   commit: 2066
 ---
 path: /home/runner/.x-repo/github.com/jrnl-org/jrnl
-collectedAt: 2026-09-11T04:42:25Z
+collectedAt: 2026-09-11T20:19:39Z
 loc:
   Python:
     code: 6558
