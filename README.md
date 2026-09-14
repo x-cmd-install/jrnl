@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,313 · **Forks**: 562 · **Open issues**: 985 · **Contributors**: 98
+- **Stars**: 7,315 · **Forks**: 562 · **Open issues**: 985 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -57,25 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 2 | 11 | 13 | 2 | 0 | 61 |
-| 90d | 2026-06-15 | 2 | 20 | 16 | 2 | 0 | 71 |
-| last180d | 2026-03-17 | 2 | 22 | 17 | 6 | 1 | 71 |
-| 360d | 2025-09-18 | 2 | 31 | 20 | 15 | 3 | 96 |
-| last720d | 2024-09-23 | 4 | 95 | 22 | 38 | 14 | 202 |
-
-## Distribution status
-
-Reported by **38** distros on [repology.org](https://repology.org/project/jrnl). **11** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `4.6` | ✅ latest |
-| Homebrew | `4.6` | ✅ latest |
-| Fedora rawhide | `4.6` | ✅ latest |
-| Nix unstable | `4.2` | ⚠️ outdated |
-| Void | `4.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `4.2.1` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 2 | 10 | 13 | 2 | 0 | 25 |
+| 90d | 2026-06-16 | 2 | 20 | 16 | 2 | 0 | 71 |
+| last180d | 2026-03-18 | 2 | 22 | 17 | 5 | 1 | 71 |
+| 360d | 2025-09-19 | 2 | 31 | 20 | 15 | 3 | 96 |
+| last720d | 2024-09-24 | 4 | 95 | 21 | 38 | 14 | 202 |
 
 ## Improve this data
 
@@ -86,4 +73,4 @@ Install metadata for jrnl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:48:02Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:59:41Z._
