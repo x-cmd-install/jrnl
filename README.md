@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,319 · **Forks**: 564 · **Open issues**: 985 · **Contributors**: 98
+- **Stars**: 7,322 · **Forks**: 565 · **Open issues**: 985 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 2 | 10 | 12 | 1 | 0 | 25 |
-| 90d | 2026-06-19 | 2 | 20 | 16 | 2 | 0 | 71 |
-| last180d | 2026-03-21 | 2 | 22 | 17 | 5 | 1 | 71 |
-| 360d | 2025-09-22 | 2 | 31 | 20 | 15 | 3 | 96 |
-| last720d | 2024-09-27 | 4 | 95 | 21 | 38 | 13 | 202 |
+| 30d | 2026-08-19 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-20 | 2 | 5 | 11 | 1 | 0 | 25 |
+| 90d | 2026-06-20 | 2 | 20 | 16 | 2 | 0 | 71 |
+| last180d | 2026-03-22 | 2 | 22 | 17 | 5 | 1 | 71 |
+| 360d | 2025-09-23 | 2 | 31 | 20 | 15 | 3 | 96 |
+| last720d | 2024-09-28 | 4 | 95 | 21 | 38 | 13 | 202 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jrnl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:53:07Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:41:13Z._
