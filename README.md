@@ -4,7 +4,7 @@
 
 Collect your thoughts and notes without leaving the command line.
 
-[![x-cmd/install — jrnl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jrnl.svg)](https://x-cmd.com/install/jrnl)
+[![x-cmd/install — jrnl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jrnl.svg)](https://x-cmd.com/install/jrnl)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 3 | 11 | 1 | 0 | 25 |
-| 90d | 2026-06-24 | 2 | 20 | 16 | 2 | 0 | 71 |
-| last180d | 2026-03-26 | 2 | 22 | 17 | 5 | 1 | 71 |
-| 360d | 2025-09-27 | 2 | 31 | 20 | 15 | 3 | 96 |
-| last720d | 2024-10-02 | 4 | 83 | 21 | 36 | 13 | 186 |
+| 30d | 2026-08-24 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 2 | 3 | 9 | 1 | 0 | 25 |
+| 90d | 2026-06-25 | 2 | 20 | 16 | 2 | 0 | 71 |
+| last180d | 2026-03-27 | 2 | 22 | 17 | 5 | 1 | 71 |
+| 360d | 2025-09-28 | 2 | 31 | 20 | 15 | 3 | 96 |
+| last720d | 2024-10-03 | 4 | 82 | 21 | 36 | 13 | 178 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jrnl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:51:33Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:58:06Z._
