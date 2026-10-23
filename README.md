@@ -47,22 +47,35 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,349 · **Forks**: 570 · **Open issues**: 986 · **Contributors**: 98
+- **Stars**: 7,347 · **Forks**: 571 · **Open issues**: 986 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 838 · **Open PRs**: 34 · **Closed issues**: 857 · **Open issues**: 129 · **Commits**: 2066
+- **Releases**: 51 · **Merged PRs**: 838 · **Open PRs**: 36 · **Closed issues**: 857 · **Open issues**: 129 · **Commits**: 2066
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 10 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 12 | 0 | 1 | 0 |
-| 90d | 2026-07-24 | 2 | 3 | 21 | 1 | 1 | 25 |
-| last180d | 2026-04-25 | 2 | 22 | 27 | 5 | 1 | 71 |
-| 360d | 2025-10-27 | 2 | 31 | 30 | 14 | 4 | 96 |
-| last720d | 2024-11-01 | 3 | 71 | 31 | 35 | 13 | 159 |
+| 30d | 2026-09-23 | 0 | 0 | 12 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 14 | 0 | 1 | 0 |
+| 90d | 2026-07-25 | 2 | 3 | 21 | 1 | 1 | 25 |
+| last180d | 2026-04-26 | 2 | 22 | 29 | 5 | 1 | 71 |
+| 360d | 2025-10-28 | 2 | 31 | 32 | 14 | 4 | 96 |
+| last720d | 2024-11-02 | 3 | 71 | 33 | 35 | 13 | 159 |
+
+## Distribution status
+
+Reported by **38** distros on [repology.org](https://repology.org/project/jrnl). **11** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `4.6` | ✅ latest |
+| Homebrew | `4.6` | ✅ latest |
+| Fedora rawhide | `4.6` | ✅ latest |
+| Nix unstable | `4.2` | ⚠️ outdated |
+| Void | `4.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `4.2.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +86,4 @@ Install metadata for jrnl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:46:56Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:43:49Z._
