@@ -1,3 +1,17 @@
+- repo: fedora_41
+  subrepo: updates
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: 4.2-3.fc41
+  status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
 - repo: arch
   subrepo: extra
   srcname: jrnl
@@ -90,14 +104,14 @@
     - GPL-3.0-only
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_42
   subrepo: updates
   srcname: jrnl
   binnames:
     - jrnl
   visiblename: jrnl
   version: "4.2"
-  origversion: 4.2-3.fc41
+  origversion: 4.2-8.fc42
   status: outdated
   summary: Collect your thoughts and notes without leaving the command line
   licenses:
@@ -112,20 +126,6 @@
   visiblename: jrnl
   version: "4.2"
   origversion: 4.2-4.fc42
-  status: outdated
-  summary: Collect your thoughts and notes without leaving the command line
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - Unspecified
-- repo: fedora_42
-  subrepo: updates
-  srcname: jrnl
-  binnames:
-    - jrnl
-  visiblename: jrnl
-  version: "4.2"
-  origversion: 4.2-8.fc42
   status: outdated
   summary: Collect your thoughts and notes without leaving the command line
   licenses:
@@ -161,20 +161,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: release
-  srcname: jrnl
-  binnames:
-    - jrnl
-  visiblename: jrnl
-  version: "4.3"
-  origversion: 4.3-1.fc44
-  status: legacy
-  summary: Collect your thoughts and notes without leaving the command line
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: updates
   srcname: jrnl
   binnames:
@@ -183,6 +169,20 @@
   version: "4.6"
   origversion: 4.6-1.fc44
   status: newest
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.3"
+  origversion: 4.3-1.fc44
+  status: legacy
   summary: Collect your thoughts and notes without leaving the command line
   licenses:
     - GPL-3.0-only
