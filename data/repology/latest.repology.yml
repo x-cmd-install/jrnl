@@ -1,17 +1,15 @@
-- repo: fedora_41
-  subrepo: updates
+- repo: nix_stable_25_05
   srcname: jrnl
-  binnames:
-    - jrnl
   visiblename: jrnl
   version: "4.2"
-  origversion: 4.2-3.fc41
+  origversion: null
   status: outdated
-  summary: Collect your thoughts and notes without leaving the command line
+  summary: Command line journal application that stores your journal in a plain text file
+  maintainers:
+    - bryanasdev000@gmail.com
+    - ping@umazalakain.info
   licenses:
     - GPL-3.0-only
-  categories:
-    - Unspecified
 - repo: arch
   subrepo: extra
   srcname: jrnl
@@ -104,14 +102,14 @@
     - GPL-3.0-only
   categories:
     - Unspecified
-- repo: fedora_42
+- repo: fedora_41
   subrepo: updates
   srcname: jrnl
   binnames:
     - jrnl
   visiblename: jrnl
   version: "4.2"
-  origversion: 4.2-8.fc42
+  origversion: 4.2-3.fc41
   status: outdated
   summary: Collect your thoughts and notes without leaving the command line
   licenses:
@@ -132,15 +130,15 @@
     - GPL-3.0-only
   categories:
     - Unspecified
-- repo: fedora_43
+- repo: fedora_42
   subrepo: updates
   srcname: jrnl
   binnames:
     - jrnl
   visiblename: jrnl
-  version: "4.6"
-  origversion: 4.6-1.fc43
-  status: newest
+  version: "4.2"
+  origversion: 4.2-8.fc42
+  status: outdated
   summary: Collect your thoughts and notes without leaving the command line
   licenses:
     - GPL-3.0-only
@@ -155,6 +153,20 @@
   version: 4.2.1
   origversion: 4.2.1-6.fc43
   status: legacy
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.6"
+  origversion: 4.6-1.fc43
+  status: newest
   summary: Collect your thoughts and notes without leaving the command line
   licenses:
     - GPL-3.0-only
@@ -339,18 +351,6 @@
     - ping@umazalakain.info
   licenses:
     - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: jrnl
-  visiblename: jrnl
-  version: "4.2"
-  origversion: null
-  status: outdated
-  summary: Command line journal application that stores your journal in a plain text file
-  maintainers:
-    - bryanasdev000@gmail.com
-    - ping@umazalakain.info
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_25_11
   srcname: jrnl
   visiblename: jrnl
@@ -436,7 +436,7 @@
     - time
 - repo: pkgsrc_current
   srcname: time/py-jrnl
-  binname: py313-jrnl
+  binname: py314-jrnl
   visiblename: time/py-jrnl
   version: 4.2.1
   origversion: 4.2.1nb1
