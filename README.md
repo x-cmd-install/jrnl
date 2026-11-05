@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,352 · **Forks**: 576 · **Open issues**: 986 · **Contributors**: 98
+- **Stars**: 7,352 · **Forks**: 576 · **Open issues**: 987 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 838 · **Open PRs**: 37 · **Closed issues**: 857 · **Open issues**: 129 · **Commits**: 2066
+- **Releases**: 51 · **Merged PRs**: 838 · **Open PRs**: 37 · **Closed issues**: 857 · **Open issues**: 130 · **Commits**: 2066
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 9 | 0 | 1 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 14 | 0 | 1 | 0 |
-| 90d | 2026-08-06 | 2 | 0 | 21 | 0 | 1 | 0 |
-| last180d | 2026-05-08 | 2 | 21 | 30 | 4 | 1 | 71 |
-| 360d | 2025-11-09 | 2 | 31 | 33 | 13 | 4 | 96 |
-| last720d | 2024-11-14 | 3 | 69 | 34 | 34 | 13 | 159 |
+| 30d | 2026-10-06 | 0 | 0 | 9 | 0 | 2 | 0 |
+| last60d | 2026-09-06 | 0 | 0 | 14 | 0 | 2 | 0 |
+| 90d | 2026-08-07 | 1 | 0 | 20 | 0 | 2 | 0 |
+| last180d | 2026-05-09 | 2 | 21 | 30 | 4 | 2 | 71 |
+| 360d | 2025-11-10 | 2 | 31 | 33 | 13 | 5 | 96 |
+| last720d | 2024-11-15 | 3 | 69 | 34 | 34 | 14 | 159 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for jrnl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:13:01Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:37:21Z._
