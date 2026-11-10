@@ -24,16 +24,6 @@ x install jrnl
 | Yaml | 732 | 0 | 1 | 48 |
 | Css | 710 | 42 | 132 | 4 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **5.1 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (1/10) — Found 3/25 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/jrnl-org/jrnl>
@@ -47,22 +37,22 @@ x install jrnl
 
 ## 流行度
 
-- **Star**: 7,351 · **Fork**: 577 · **开放 issue**: 987 · **贡献者**: 98
+- **Star**: 7,351 · **Fork**: 578 · **开放 issue**: 987 · **贡献者**: 98
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 838 · **开放 PR**: 37 · **已关闭 issue**: 857 · **开放 issue**: 130 · **提交数**: 2066
+- **发布数**: 51 · **已合并 PR**: 838 · **开放 PR**: 40 · **已关闭 issue**: 857 · **开放 issue**: 130 · **提交数**: 2066
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 8 | 0 | 2 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 13 | 0 | 2 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 19 | 0 | 2 | 0 |
-| last180d | 2026-05-12 | 2 | 21 | 30 | 4 | 2 | 71 |
-| 360d | 2025-11-13 | 2 | 31 | 33 | 13 | 5 | 96 |
-| last720d | 2024-11-18 | 3 | 66 | 34 | 30 | 12 | 157 |
+| 30d | 2026-10-11 | 0 | 0 | 10 | 0 | 1 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 16 | 0 | 2 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 20 | 0 | 2 | 0 |
+| last180d | 2026-05-14 | 2 | 21 | 33 | 4 | 2 | 71 |
+| 360d | 2025-11-15 | 2 | 31 | 36 | 13 | 5 | 96 |
+| last720d | 2024-11-20 | 2 | 66 | 37 | 30 | 12 | 156 |
 
 ## 发行版状态
 
@@ -86,4 +76,4 @@ jrnl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:04:41Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:26:03Z._
