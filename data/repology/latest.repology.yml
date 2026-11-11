@@ -49,20 +49,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: release
-  srcname: jrnl
-  binnames:
-    - jrnl
-  visiblename: jrnl
-  version: "4.1"
-  origversion: 4.1-3.fc40
-  status: legacy
-  summary: Collect your thoughts and notes without leaving the command line
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: updates
   srcname: jrnl
   binnames:
@@ -71,6 +57,20 @@
   version: "4.2"
   origversion: 4.2-1.fc40
   status: outdated
+  summary: Collect your thoughts and notes without leaving the command line
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: jrnl
+  binnames:
+    - jrnl
+  visiblename: jrnl
+  version: "4.1"
+  origversion: 4.1-3.fc40
+  status: legacy
   summary: Collect your thoughts and notes without leaving the command line
   licenses:
     - GPL-3.0-only
@@ -174,18 +174,6 @@
     - GPL-3.0-only
   categories:
     - Unspecified
-- repo: nix_stable_25_11
-  srcname: jrnl
-  visiblename: jrnl
-  version: "4.2"
-  origversion: null
-  status: outdated
-  summary: Command line journal application that stores your journal in a plain text file
-  maintainers:
-    - bryanasdev000@gmail.com
-    - ping@umazalakain.info
-  licenses:
-    - GPL-3.0-only
 - repo: fedora_44
   subrepo: release
   srcname: jrnl
@@ -207,7 +195,7 @@
     - jrnl
   visiblename: jrnl
   version: "4.6"
-  origversion: 4.6-1.fc45
+  origversion: 4.6-3.fc46
   status: newest
   summary: Collect your thoughts and notes without leaving the command line
   licenses:
@@ -352,6 +340,18 @@
   licenses:
     - GPL-3.0-only
 - repo: nix_stable_25_05
+  srcname: jrnl
+  visiblename: jrnl
+  version: "4.2"
+  origversion: null
+  status: outdated
+  summary: Command line journal application that stores your journal in a plain text file
+  maintainers:
+    - bryanasdev000@gmail.com
+    - ping@umazalakain.info
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
   srcname: jrnl
   visiblename: jrnl
   version: "4.2"
