@@ -37,7 +37,7 @@ Total: **15,192** lines of code across **155** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,360 · **Forks**: 580 · **Open issues**: 988 · **Contributors**: 98
+- **Stars**: 7,359 · **Forks**: 580 · **Open issues**: 988 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **15,192** lines of code across **155** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 10 | 0 | 2 | 0 |
-| last60d | 2026-09-20 | 0 | 0 | 19 | 0 | 3 | 0 |
-| 90d | 2026-08-21 | 0 | 0 | 21 | 0 | 3 | 0 |
-| last180d | 2026-05-23 | 2 | 20 | 35 | 4 | 3 | 71 |
-| 360d | 2025-11-24 | 2 | 31 | 38 | 13 | 6 | 96 |
-| last720d | 2024-11-29 | 2 | 65 | 39 | 30 | 13 | 156 |
+| 30d | 2026-10-21 | 0 | 0 | 10 | 0 | 2 | 0 |
+| last60d | 2026-09-21 | 0 | 0 | 19 | 0 | 3 | 0 |
+| 90d | 2026-08-22 | 0 | 0 | 21 | 0 | 3 | 0 |
+| last180d | 2026-05-24 | 2 | 20 | 35 | 4 | 3 | 71 |
+| 360d | 2025-11-25 | 2 | 31 | 38 | 13 | 6 | 96 |
+| last720d | 2024-11-30 | 2 | 65 | 39 | 29 | 13 | 156 |
 
 ## Distribution status
 
@@ -76,4 +76,4 @@ Install metadata for jrnl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:24:42Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:23:40Z._
