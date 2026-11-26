@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,364 · **Forks**: 580 · **Open issues**: 988 · **Contributors**: 98
+- **Stars**: 7,365 · **Forks**: 580 · **Open issues**: 988 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -57,25 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 8 | 0 | 2 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 20 | 0 | 3 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 21 | 0 | 3 | 0 |
-| last180d | 2026-05-29 | 2 | 20 | 34 | 4 | 3 | 71 |
-| 360d | 2025-11-30 | 2 | 31 | 38 | 13 | 6 | 96 |
-| last720d | 2024-12-05 | 2 | 65 | 39 | 29 | 12 | 156 |
-
-## Distribution status
-
-Reported by **39** distros on [repology.org](https://repology.org/project/jrnl). **12** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `4.6` | ✅ latest |
-| Homebrew | `4.6` | ✅ latest |
-| Fedora rawhide | `4.6` | ✅ latest |
-| Nix unstable | `4.2` | ⚠️ outdated |
-| Void | `4.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `4.2.1` | ⚠️ outdated |
+| 30d | 2026-10-27 | 0 | 0 | 8 | 0 | 2 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 20 | 0 | 3 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 21 | 0 | 3 | 0 |
+| last180d | 2026-05-30 | 2 | 20 | 34 | 4 | 3 | 0 |
+| 360d | 2025-12-01 | 2 | 31 | 38 | 13 | 6 | 0 |
+| last720d | 2024-12-06 | 2 | 65 | 39 | 29 | 12 | 156 |
 
 ## Improve this data
 
@@ -86,4 +73,4 @@ Install metadata for jrnl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:25:26Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:08:13Z._
